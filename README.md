@@ -1,19 +1,20 @@
 ### Hi there, I'm Teten Nugraha [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://medium.com/backend-habit)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ften_nugraha&screen_name=ten_nugraha)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Father, Developer, and Writer!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Cloud, Kubernetes, Golang, Refactoring and Clean code 
+- 👯 I’m looking to collaborate with other content creators and remote anywhere job
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to gardening
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/6MJYsVaxlaRqlzPdJwrKSp?si=QRctEWP1T3CBB0YChkDFjA)
+
 
 ### Connect with me:
 
@@ -59,7 +60,7 @@
 - [Top VS Code Updates | v1.50 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=WYIelDSS738)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCgKG963L4GUiJhtm5uoJvvg)
 
 ---
 
@@ -73,7 +74,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://medium.com/backend-habit)
 
 ---
 
@@ -97,12 +98,12 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://medium.com/backend-habit
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/ten_nugraha
+[youtube]: https://www.youtube.com/channel/UCgKG963L4GUiJhtm5uoJvvg
+[instagram]: https://instagram.com/tennugraha
+[linkedin]: https://www.linkedin.com/in/teten-nugraha/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
