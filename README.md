@@ -93,7 +93,7 @@
 
 ### 📕 Latest GitHub Stats
 
-<img align="left" alt="Teten Nugraha GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teten-nugraha&show_icons=true&hide_border=true" />
+<img align="left" alt="Teten Nugraha GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=teten-nugraha&show_icons=true&hide_border=true&theme=radical" />
 
 
 [website]: https://medium.com/backend-habit
