@@ -1,7 +1,7 @@
 ### Hi there, I'm Teten Nugraha [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://medium.com/backend-habit)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ften_nugraha&screen_name=ten_nugraha)
+[![Website](https://img.shields.io/website?label=medium.com/backend-habit.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://medium.com/backend-habit)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ten_nugraha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ften_nugraha&screen_name=ten_nugraha)
 
 ## I'm a Husband, Father, Developer, and Writer!!
 
