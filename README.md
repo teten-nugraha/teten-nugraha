@@ -67,11 +67,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Using Pagination on Open Feign](https://medium.com/backend-habit/using-pagination-on-open-feign-4fc500747b70)
+- [Setting VSCode for Golang Debugging](https://medium.com/backend-habit/setup-vscode-for-golang-debugging-faff03130a97)
+- [Spring JPA - Make dynamic Where expression using Predicate and Criteria](https://medium.com/backend-habit/spring-jpa-make-dynamic-where-using-predicate-and-criteria-84550dfaa182)
+- [How to running microservices project in IntellijIDEA](https://medium.com/backend-habit/intellij-idea-running-multiple-project-microservices-in-one-workspace-d61126fe0eef)
+- [Generate codecoverage using Jacoco and Sonarqube](https://medium.com/backend-habit/generate-codecoverage-report-with-jacoco-and-sonarqube-ed15c4045885)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/backend-habit)
